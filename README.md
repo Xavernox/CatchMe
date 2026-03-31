@@ -6,10 +6,10 @@
   <img src="assets/catchme-logo.png" width="360" alt="CatchMe Logo"/>
 </p>
 
-<h1 align="center">CatchMe: Capture Your Entire Digital Footprint</h1>
+<h1 align="center">CatchMe: Make Your AI Agents Truly Personal</h1>
 
 <p align="center">
-  <b>Let Your Agents Understand you Better: Lightweight & Vectorless & Powerful.</b>
+  <b>Capture Your Entire Digital Footprint: Lightweight & Vectorless & Powerful.</b>
 </p>
 
 <p align="center">
