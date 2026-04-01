@@ -15,7 +15,7 @@
 <p align="center">
   <a href="../../LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat" alt="License"></a>
   <img src="https://img.shields.io/badge/Python-%E2%89%A53.11-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey?style=flat" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey?style=flat" alt="Platform">
   <a href="https://hkuds.github.io/CatchMe"><img src="https://img.shields.io/badge/Blog-online-orange?style=flat" alt="Blog"></a>
   <img src="https://img.shields.io/badge/Report-coming%20soon-lightgrey?style=flat" alt="Report">
   <br>
